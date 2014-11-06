@@ -1,0 +1,29 @@
+Circle
+------
+Radius: 75.0
+Area: 17671.458676442588
+Circumference: 471.23889803846896
+
+Rectangle
+---------
+Base: 40.0
+Height: 30.0
+Area: 1200.0
+Perimeter: 140.0
+Diagonal: 50.0
+
+Square
+------
+Side: 50.0
+Area: 2500.0
+Perimeter: 200.0
+Diagonal: 70.71067811865476
+New side: 10.0
+New area: 500.0
+
+Triangle
+--------
+Side: 37.0
+Area: 592.7943888904482
+Perimeter: 111.0
+
